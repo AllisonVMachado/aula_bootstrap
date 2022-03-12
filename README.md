@@ -1,2 +1,2 @@
 # aula_bootstrap
-Utilizando Bootstrap
+Criando um site responsivo utilizando Bootstrap
